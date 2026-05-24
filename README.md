@@ -14,7 +14,7 @@ Transformer-based fusion methods have gained great attention due to their long-r
 
 ## Pipeline
 
-![pipleline](C:/Users/Admin/Desktop/Demo/Our/HCDFuse/Code-up/HIRFuse_up_final/pic/pipeline.png)
+![pipleline](pic/pipeline.png)
 
 
 
