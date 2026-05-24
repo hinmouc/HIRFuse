@@ -53,8 +53,7 @@ If this work is helpful to you, please cite it as:
 ```
 @ARTICLE{2026HIRFuse,
   title={Heat-aware and Iterative Refinement Image Fusion},
-  author={Hua, Dingli and Chen, Qingmao and Wu, Zhiliang 
-  		  and Zuo, Yifan and Fang, Yuming},
+  author={Hua, Dingli and Chen, Qingmao and Wu, Zhiliang and Zuo, Yifan and Fang, Yuming},
   journal={IEEE Transactions on Multimedia},
   year={2026},
 }
