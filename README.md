@@ -32,7 +32,7 @@ python train.py
 
 **1. Pretrained models**
 
-Pretrained models are available in [checkpoint]().
+Pretrained models are available in [checkpoint](https://drive.google.com/file/d/1ZWsoy-l1EK__1ExB64cWfKaVE2p-mOE8/view?usp=drive_link).
 
 **2. Test cases**
 
